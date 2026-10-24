@@ -1,0 +1,1 @@
+A RAG-based customer support chatbot built with Spring Boot, Spring AI and Pinecone
